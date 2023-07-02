@@ -1,0 +1,4 @@
+-  Hi, I’m @KUEmonarch
+-  I’m interested in war
+-  I’m currently learning python % C++
+-  I’m looking to collaborate war machines
